@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "wdio",
-    "test:ci": "wdio wdio-headless.conf.js"
+    "test:headless": "wdio wdio-headless.conf.js"
   },
   "author": "Applitools Team <team@applitools.com> (http://www.applitools.com/)",
   "license": "ISC",
